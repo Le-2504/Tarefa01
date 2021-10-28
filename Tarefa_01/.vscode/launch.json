@@ -1,0 +1,15 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open Exercício01.html",
+            "file": "c:\\Users\\Leandro Alves\\Documents\\Fatec_2021_03\\PW_Fatec2021_03\\Tarefas\\Tarefa-01-master\\Tarefa-01-master\\Exercício01.html"
+        }
+    ]
+}
